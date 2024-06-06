@@ -1,0 +1,31 @@
+Aula
+	https://sendflow.pro/l/python-aula1
+
+vídeo instalação do 	VSCode
+
+	https://sendflow.pro/l/eu2qwfrqx
+	
+como instalar e configurar ambiente python-aula1
+	
+	https://www.youtube.com/watch?v=Hcn3st-S7uU
+	
+	
+	
+	
+#ateofim
+
+jupiter notebook
+
+
+
+instalação de bibliotecas:
+
+	!pip install yfinance				(instala no ambiente)
+	
+	!pip install pyautogui				
+
+carregar a biblioteca
+
+	import yfinance						(carrego no projeto)
+	
+	import pyautogui
